@@ -1,6 +1,6 @@
 {
   "name": "newline-normalizer",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Converts line endings between LF, CRLF, and CR formats either in-memory or streaming to files.",
   "type": "module",
   "main": "src/index.js",
